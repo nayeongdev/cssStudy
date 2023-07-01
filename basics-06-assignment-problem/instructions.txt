@@ -1,0 +1,15 @@
+1. Style the above <h1> tag to use any color of your choice and a sans-serif font.
+2. Style all <code> tags to use the monospace font-family and have red text.
+3. Use a class selector to ensure that the <code> elements in the second <li> element have a different color (e.g. green).
+4. Switch the order of the rules you created and use the dev tools of your browser to understand how specifity resolves conflicts (for the <code> elements).
+5. Set a default font (e.g. sans-serif) for the entire content of your page and use "Inheritance" to change the font of the <li> items, too.
+6. Use a combinator to give all <li> elements but the first one (!) a black background and white text color (don't worry if the numbers disappear).
+7. Use another combinator to now give all <li> inside an <ol> element a black background and white text color.
+-----------------------------------------------------------------
+1. 상기 <h1> 태그를 원하는 색상과 sans-serif 폰트를 사용해 스타일링해 보세요.
+2. 모든 <code> 태그에 monospace 폰트 패밀리와 빨간색 텍스트 색상으로 스타일링해 보세요.
+3. 클래스 선택자를 사용해 두 번째 <li> 요소의 <code> 요소들을 다른 색상(녹색 등)으로 바꿔 보세요.
+4. 생성한 규칙의 순서를 뒤집어 보세요. 그리고 브라우저의 개발자 도구에서 명시도(specifity)가 충돌(<code> 요소의 경우)을 어떻게 해결하는지 이해해 봅니다.
+5. 페이지 전체 콘텐츠를 기본 폰트(sans-serif 등)로 설정하고, ‘상속(Inheritance)’을 사용해 <li> 항목의 폰트를 변경해 보세요.
+6. 결합자를 사용해 첫 번째 요소(!)를 제외한 모든 <li> 요소에 검은색 배경과 흰색 텍스트 색상을 적용해 보세요(숫자가 안 보이게 되더라도 걱정하지 마세요).
+7. 이제 다른 결합자를 사용해 <ol> 요소 내부의 모든 <li> 요소에 검은색 배경과 흰색 텍스트 색상을 적용해 보세요.
