@@ -1,0 +1,33 @@
+/* 1번 */
+#assignment-instructions {  /* h1 */
+  color: cornflowerblue;
+  font-family: sans-serif;
+}
+
+/** 4번 **/
+/* 3번 */
+.highlight code {
+  color: green;
+}
+/* 2번 */
+code {
+  font-family: monospace;
+  color: red;
+}
+
+/* 5번 */
+body {
+  font-family: sans-serif;
+}
+
+/* 6번 */
+li ~ li{  /* li + li */
+  background-color: black;
+  color: white;
+}
+
+/* 7번 */
+ol li{  /* ol > li */
+  background-color: black;
+  color: white;
+}
